@@ -1,0 +1,7 @@
+{
+  "name": "CoffeeManager Pro",
+  "description": "Sistema integral de gestión para fincas cafeteras con análisis de datos y asistencia IA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
